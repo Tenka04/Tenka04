@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tenka04
-- 👀 I’m interested in become a professional coder
+- 👀 I’m interested in becoming a professional coder
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
