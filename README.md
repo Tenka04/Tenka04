@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Tenka04<br>🌱 I’m currently learning Java, Maven, Spring.<br>🔭 I’m currently working on Back end development<br>📫 How to reach me : - sujalsangle@gmail.com<br>⚡ Fun fact :- We are creating AI which will replace our own position
+👋 Hi, I’m @Sujal<br>🌱 I’m currently learning Java, Spring, Docker.<br>🔭 I’m currently working on Back end development<br>📫 How to reach me : - sujalsangle@gmail.com<br>⚡ Fun fact :- I write code like I’m making a sandwich – sometimes messy, but always satisfying!
 
 
 ## 🌐 Socials:
