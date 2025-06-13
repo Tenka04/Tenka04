@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Sujal Sangle</font></h1>
 
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sujal-sangle/" target="_blank" rel="noreferrer">Sujal</a>💻 Aspiring DevOps / AI developer | Passionate about building efficient systems.| Learning something new every day.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/sujal-sangle/" target="_blank" rel="noreferrer">Sujal</a>💻 Aspiring DevOps / AI developer | Passionate about building efficient software and automation.| Learning something new every day.</font></h3>
 
 
 <!-- GIF -->
